@@ -10,7 +10,7 @@
     <!-- cdn icnonos-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-    <a href="/php-login">Tarea 4 - Aplicaciones</a>
+    <a href="/php-login" >Tarea 4 - Aplicaciones</a>
     
   </head>
   <body>
@@ -18,7 +18,7 @@
           <div class="row">
               <div class="col-md">
                   <header class="py-3">
-                      <h3 class="text-center">CRUD PHP y MySQL</h3>
+                      <h3 class="text-center">Desarrollo del componente práctico del curso Aplicaciones Telemáticas 208057</h3>
                   </header>
               </div>
           </div>
